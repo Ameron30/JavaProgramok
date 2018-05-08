@@ -46,3 +46,10 @@ public class doki {
     }
 
 }
+
+csv adatsuerkezet:
+0000;999999992;Pro Familia;22114;Dr. Györgyi János;B;
+0000;999999992;Pro Familia;22114;Dr. Györgyi János;G;
+0000;999999992;Pro Familia;22115;Dr. Németh Hajnalka;B;
+0000;999999992;Pro Familia;22115;Dr. Németh Hajnalka;G;
+0000;999999992;Pro Familia;22116;Dr. Farkas Zsuzsanna;B;
